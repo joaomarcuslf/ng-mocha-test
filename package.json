@@ -1,0 +1,12 @@
+{
+  "name": "ng-mocha-test",
+  "version": "1.0.0",
+  "description": "Demonstrative repo for Medium Post",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp tests",
+    "start": "npm install && bower install"
+  },
+  "author": "João Marcus Fernandes <jmarcusfernandes@gmail.com>",
+  "license": "ISC"
+}
